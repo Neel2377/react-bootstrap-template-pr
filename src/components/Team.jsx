@@ -14,7 +14,7 @@ const Team = () => {
             <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay={100}>
               <div className="team-member">
                 <div className="member-img">
-                  <img src="/src/assets/img/team/team-1.jpg" className="img-fluid" alt />
+                  <img src="/public/img/team/team-1.jpg" className="img-fluid" alt />
                   <div className="social">
                     <a href><i className="bi bi-twitter-x" /></a>
                     <a href><i className="bi bi-facebook" /></a>
@@ -31,7 +31,7 @@ const Team = () => {
             <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay={200}>
               <div className="team-member">
                 <div className="member-img">
-                  <img src="/src/assets/img/team/team-2.jpg" className="img-fluid" alt />
+                  <img src="/public/img/team/team-2.jpg" className="img-fluid" alt />
                   <div className="social">
                     <a href><i className="bi bi-twitter-x" /></a>
                     <a href><i className="bi bi-facebook" /></a>
@@ -48,7 +48,7 @@ const Team = () => {
             <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay={300}>
               <div className="team-member">
                 <div className="member-img">
-                  <img src="/src/assets/img/team/team-3.jpg" className="img-fluid" alt />
+                  <img src="/public/img/team/team-3.jpg" className="img-fluid" alt />
                   <div className="social">
                     <a href><i className="bi bi-twitter-x" /></a>
                     <a href><i className="bi bi-facebook" /></a>
@@ -65,7 +65,7 @@ const Team = () => {
             <div className="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay={400}>
               <div className="team-member">
                 <div className="member-img">
-                  <img src="/src/assets/img/team/team-4.jpg" className="img-fluid" alt />
+                  <img src="/public/img/team/team-4.jpg" className="img-fluid" alt />
                   <div className="social">
                     <a href><i className="bi bi-twitter-x" /></a>
                     <a href><i className="bi bi-facebook" /></a>

@@ -7,7 +7,7 @@ const Features = () => {
       <section id="features" className="features section">
         <div className="container">
           <div className="row gy-4">
-            <div className="features-image col-lg-6" data-aos="fade-up" data-aos-delay={100}><img src="/src/assets/img/features-bg.jpg" alt /></div>
+            <div className="features-image col-lg-6" data-aos="fade-up" data-aos-delay={100}><img src="/public/img/features-bg.jpg" alt /></div>
             <div className="col-lg-6">
               <div className="features-item d-flex ps-0 ps-lg-3 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay={200}>
                 <i className="bi bi-archive flex-shrink-0" />

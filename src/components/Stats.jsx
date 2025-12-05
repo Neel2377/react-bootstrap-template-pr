@@ -8,7 +8,7 @@ const Stats = () => {
         <div className="container" data-aos="fade-up" data-aos-delay={100}>
           <div className="row gy-4 align-items-center justify-content-between">
             <div className="col-lg-5">
-              <img src="/src/assets/img/stats-img.jpg" alt className="img-fluid" />
+              <img src="/public/img/stats-img.jpg" alt className="img-fluid" />
             </div>
             <div className="col-lg-6">
               <h3 className="fw-bold fs-2 mb-3">Voluptatem dignissimos provident quasi</h3>

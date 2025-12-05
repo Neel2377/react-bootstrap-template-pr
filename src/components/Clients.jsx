@@ -1,6 +1,5 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination, Autoplay } from "swiper/modules";
-
 import "swiper/css";
 import "swiper/css/pagination";
 
@@ -29,28 +28,28 @@ const Clients = () => {
           }}
         >
           <SwiperSlide>
-            <img src="/src/assets/img/clients/client-1.png" className="img-fluid" alt="Client 1" />
+            <img src="/public/img/clients/client-1.png" className="img-fluid" alt="Client 1" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/src/assets/img/clients/client-2.png" className="img-fluid" alt="Client 2" />
+            <img src="/public/img/clients/client-2.png" className="img-fluid" alt="Client 2" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/src/assets/img/clients/client-3.png" className="img-fluid" alt="Client 3" />
+            <img src="/public/img/clients/client-3.png" className="img-fluid" alt="Client 3" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/src/assets/img/clients/client-4.png" className="img-fluid" alt="Client 4" />
+            <img src="/public/img/clients/client-4.png" className="img-fluid" alt="Client 4" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/src/assets/img/clients/client-5.png" className="img-fluid" alt="Client 5" />
+            <img src="/public/img/clients/client-5.png" className="img-fluid" alt="Client 5" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/src/assets/img/clients/client-6.png" className="img-fluid" alt="Client 6" />
+            <img src="/public/img/clients/client-6.png" className="img-fluid" alt="Client 6" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/src/assets/img/clients/client-7.png" className="img-fluid" alt="Client 7" />
+            <img src="/public/img/clients/client-7.png" className="img-fluid" alt="Client 7" />
           </SwiperSlide>
           <SwiperSlide>
-            <img src="/src/assets/img/clients/client-8.png" className="img-fluid" alt="Client 8" />
+            <img src="/public/img/clients/client-8.png" className="img-fluid" alt="Client 8" />
           </SwiperSlide>
         </Swiper>
 

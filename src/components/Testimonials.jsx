@@ -4,13 +4,13 @@ const Testimonials = () => {
   return (
     <>
       <section id="testimonials" className="testimonials section dark-background">
-        <img src="/src/assets/img/testimonials-bg.jpg" className="testimonials-bg" alt />
+        <img src="/public/img/testimonials-bg.jpg" className="testimonials-bg" alt />
         <div className="container" data-aos="fade-up" data-aos-delay={100}>
           <div className="swiper init-swiper">
             <div className="swiper-wrapper">
               <div className="swiper-slide">
                 <div className="testimonial-item">
-                  <img src="/src/assets/img/testimonials/testimonials-1.jpg" className="testimonial-img" alt />
+                  <img src="/public/img/testimonials/testimonials-1.jpg" className="testimonial-img" alt />
                   <h3>Saul Goodman</h3>
                   <h4>Ceo &amp; Founder</h4>
                   <div className="stars">
@@ -25,7 +25,7 @@ const Testimonials = () => {
               </div>{/* End testimonial item */}
               <div className="swiper-slide">
                 <div className="testimonial-item">
-                  <img src="/src/assets/img/testimonials/testimonials-2.jpg" className="testimonial-img" alt />
+                  <img src="/public/img/testimonials/testimonials-2.jpg" className="testimonial-img" alt />
                   <h3>Sara Wilsson</h3>
                   <h4>Designer</h4>
                   <div className="stars">
@@ -40,7 +40,7 @@ const Testimonials = () => {
               </div>{/* End testimonial item */}
               <div className="swiper-slide">
                 <div className="testimonial-item">
-                  <img src="/src/assets/img/testimonials/testimonials-3.jpg" className="testimonial-img" alt />
+                  <img src="/public/img/testimonials/testimonials-3.jpg" className="testimonial-img" alt />
                   <h3>Jena Karlis</h3>
                   <h4>Store Owner</h4>
                   <div className="stars">
@@ -55,7 +55,7 @@ const Testimonials = () => {
               </div>{/* End testimonial item */}
               <div className="swiper-slide">
                 <div className="testimonial-item">
-                  <img src="/src/assets/img/testimonials/testimonials-4.jpg" className="testimonial-img" alt />
+                  <img src="/public/img/testimonials/testimonials-4.jpg" className="testimonial-img" alt />
                   <h3>Matt Brandon</h3>
                   <h4>Freelancer</h4>
                   <div className="stars">
@@ -70,7 +70,7 @@ const Testimonials = () => {
               </div>{/* End testimonial item */}
               <div className="swiper-slide">
                 <div className="testimonial-item">
-                  <img src="/src/assets/img/testimonials/testimonials-5.jpg" className="testimonial-img" alt />
+                  <img src="/public/img/testimonials/testimonials-5.jpg" className="testimonial-img" alt />
                   <h3>John Larson</h3>
                   <h4>Entrepreneur</h4>
                   <div className="stars">
